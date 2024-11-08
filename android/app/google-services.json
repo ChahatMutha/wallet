@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "974919941689",
+    "project_id": "authentication-82ffd",
+    "storage_bucket": "authentication-82ffd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974919941689:android:09267c70a22d38b22597e8",
+        "android_client_info": {
+          "package_name": "com.example.dwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974919941689-5chs7pev2b3msmqtite6c6m2o591fg93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dwallet",
+            "certificate_hash": "8ed3099dceef2dbd67f1e5129e766c965863fa7c"
+          }
+        },
+        {
+          "client_id": "974919941689-0lhfg4itnnqhg6qdd2o7e079ilanvps1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCT12e8oIUkAvliqSmis5TXgmhtHFdWDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974919941689-0lhfg4itnnqhg6qdd2o7e079ilanvps1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
